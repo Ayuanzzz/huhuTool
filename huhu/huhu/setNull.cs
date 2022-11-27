@@ -11,9 +11,9 @@ using ESRI.ArcGIS.Geodatabase;
 
 namespace huhu
 {
-    public class Button1 : ESRI.ArcGIS.Desktop.AddIns.Button
+    public class setNull : ESRI.ArcGIS.Desktop.AddIns.Button
     {
-        public Button1()
+        public setNull()
         {
         }
 
@@ -23,7 +23,7 @@ namespace huhu
             MessageBox.Show("赋空完成");
         }
         
-        public static void iterateAttribute()
+        private static void iterateAttribute()
         {
             IMxDocument mxDocument = ArcMap.Application.Document as IMxDocument;
             IActiveView activeView = mxDocument.ActiveView;

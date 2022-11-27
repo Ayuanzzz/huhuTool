@@ -4,3 +4,9 @@ D:\C#\huhu\huhu\obj\Debug\huhu.csprojResolveAssemblyReference.cache
 D:\C#\huhu\huhu\obj\Debug\huhu.dll
 D:\C#\huhu\huhu\obj\Debug\huhu.pdb
 D:\C#\huhu\huhu\bin\Debug\huhu.esriAddIn
+D:\C#\ArcgisTool\huhu\huhu\bin\Debug\huhu.dll
+D:\C#\ArcgisTool\huhu\huhu\bin\Debug\huhu.pdb
+D:\C#\ArcgisTool\huhu\huhu\obj\Debug\huhu.dll
+D:\C#\ArcgisTool\huhu\huhu\obj\Debug\huhu.pdb
+D:\C#\ArcgisTool\huhu\huhu\obj\Debug\huhu.csprojResolveAssemblyReference.cache
+D:\C#\ArcgisTool\huhu\huhu\bin\Debug\huhu.esriAddIn
